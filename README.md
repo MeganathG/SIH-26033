@@ -27,7 +27,9 @@ Benefits:
 
 ## Proposed Solution
 1.Government should purchase crops directly from farmers at fair prices, reducing middlemen and ensuring better income.
+
 2.Provide cold storage and  warehouses so farmers can store products and sell them at higher prices instead of accepting low prices from intermediates.
+
 3.Farmers can sell their products directly to retailers and consumers, reducing unnecessary costs and increasing farmers profits.
 
 ## Technical Approach
