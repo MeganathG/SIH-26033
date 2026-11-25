@@ -34,21 +34,28 @@ Benefits:
 
 ## Technical Approach
 1.Tecnical approach like python, HTML, CSS, Javascript, etc, to built an app.
+
 2.[alt text]({0EC3DA49-3B96-46D3-A0D5-B206445F8163}.png)
 
 
 
 ## Feasibility and Viability
 1.Farmers can use a simple mobile app to sell their products directly to customers.
+
 2.The system reduces intermediates charges and helps farmers to save money.
+
 3.first this system was introuced in small villages and then it was expanded to many cities and states.
 
 ## Impact and Benefits
 1.From this solution ther is no intermediates between farmer and now farmer not want to pay any commissions to the intermediates.
+
 2.Here after farmer can sell there produt directly to the government at fair price.
+
 3.So,farmer can earn more profit from there selling product.
 
 ## Research and References
 1.Ministry of Agriculture: https://agriwelfare.gov.in - Information about farmers problems, agricultural policies and government schemes.
+
 2.e-NAM: https://enam.gov.in - Information about online agricultural markets and direct connections between farmers and buyers.
+
 3.NABARD: https://www.nabard.org - Research about farmer organizations, agricultural development and improving farmers' income.
